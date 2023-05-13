@@ -1,5 +1,5 @@
 ### Creating a new application
-`npx react-native@latest init AwesomeProject`
+`npx react-native@latest init ReactNativeSample`
 
 ### Running your React Native application
 * Step 1: Start Metro\
